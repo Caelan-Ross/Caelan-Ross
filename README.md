@@ -8,7 +8,7 @@
   <p>First Canadian Insurance Group - Web Developer, Febuary 2024 > Present</p>
   <h3>🌐 Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,js,jquery,cs,dotnet,nextjs,react,perl,py,mysql,md" />
+    <img src="https://skillicons.dev/icons?i=git,css,html,js,jquery,cs,dotnet,ts,nextjs,react,perl,py,mysql,md" />
   </a>
   <h3>🔧 Tools</h3>
   <a href="https://skillicons.dev">
